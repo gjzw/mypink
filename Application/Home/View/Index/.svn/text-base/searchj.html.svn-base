@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>激活码查询</title>
+	<style type="text/css">
+		td {
+		    width: 1px;
+		    white-space: nowrap; /* 自适应宽度*/
+		    word-break:  keep-all; /* 避免长单词截断，保持全部 */
+
+		}
+		th {
+			font-weight: bold;
+			line-height: 20px;
+			border-top-width: 1px;
+			border-right-width: 1px;
+			border-bottom-width: 1px;
+			border-left-width: 1px;
+			border-bottom-style: solid;
+			color: #333333;
+			background-color: f6f6f6;
+			white-space: nowrap; /* 自适应宽度*/
+			word-break:  keep-all; /* 避免长单词截断，保持全部 */
+		}
+
+	</style>
+	<metaname="viewport"content="width=device-width,initial-scale=1">
+</head>
+<body>
+<table width="100%">
+	<tr>
+	
+	<td>
+		<table width="100%"  cellpadding="3" cellspacing="8" align="left">
+			<tr><th colspan="6" align="left">激活码查询</th>
+			
+			<tr>
+			
+			<form action="__URL__/searchj" method='post'>
+				<td><label>激活码:</label><input type="text" size='30' name='number' value="vomU66PZ" /><input type="submit" name="allbook" value="      查询激活码      " /></td>
+			</form>
+			</tr>
+			
+				 
+		</table>
+	</td>
+
+	
+	</tr>
+</table>
+
+
+	
